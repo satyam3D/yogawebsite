@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img, svg {
+    vertical-align: middle;
+    height: 90px;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: yellow;
+}
+.nav-item{
+    padding: 10px;
+}
+.fa{
+    margin: 10px;
+}
+.d-flex {
+    display: flex!important;
+    margin: auto;
+    margin-left: 11rem;
+}
+.main{
+    background: url(/webpagetask/yoga.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.new{
+        background: url(/webpagetask/beginneryogaposes.jpg);
+        background-size: cover;
+        width: 120vh;
+        height: 40vh;
+        margin: auto;
+    
+}
+.btn{
+    background-color: green;
+    
+}
+.container2 {
+    height: 60vh;
+    padding: 89px;
+    margin-left: 227px;
+    width: 70%;
+    background-color: orange
+}
+
+.text-break {
+    text-align: center;
+    margin-left: 26%;
+    width: 26rem;
+}
+.main-text{
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
